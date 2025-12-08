@@ -1,0 +1,48 @@
+{
+  "medicos": [
+    {
+      "idMed": 1,
+      "nombreMed": "Juan",
+      "apellidoMed": "Perez",
+      "aniosExperiencia": 5
+    },
+    {
+      "idMed": 3,
+      "nombreMed": "Carlos",
+      "apellidoMed": "Rios",
+      "aniosExperiencia": 2
+    },
+    {
+      "idMed": 1,
+      "nombreMed": "Juan",
+      "apellidoMed": "Perez",
+      "aniosExperiencia": 5
+    },
+    {
+      "idMed": 3,
+      "nombreMed": "Carlos",
+      "apellidoMed": "Rios",
+      "aniosExperiencia": 2
+    }
+  ],
+  "consultas": [
+    {
+      "ci": 1,
+      "nombrePaciente": "Ana",
+      "apellidoPaciente": "Mendez",
+      "idMed": 1,
+      "dia": 2,
+      "mes": "enero",
+      "anio": 2025
+    },
+    {
+      "ci": 1,
+      "nombrePaciente": "Ana",
+      "apellidoPaciente": "Mendez",
+      "idMed": 1,
+      "dia": 2,
+      "mes": "enero",
+      "anio": 2025
+    }
+  ]
+}
